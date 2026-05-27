@@ -43,15 +43,19 @@ gap:20px;
 flex-wrap:wrap;
 }
 
+/* LOGO */
+
 .logo{
 font-size:34px;
 font-weight:800;
-color:#111111;
+color:white;
 }
 
 .logo span{
 color:#ff9900;
 }
+
+/* MENU */
 
 nav{
 display:flex;
@@ -69,6 +73,8 @@ transition:0.3s;
 nav a:hover{
 color:#ff9900;
 }
+
+/* SEARCH */
 
 .search-box input{
 padding:12px 18px;
